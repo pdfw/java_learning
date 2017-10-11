@@ -1,1 +1,4 @@
 /out/*
+/week03/out/*
+/week03/gradle/*
+/week03/.gradle
